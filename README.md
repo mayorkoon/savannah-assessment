@@ -6,8 +6,8 @@ Abiodun Oyawale
 
 | Folder | Contents |
 |---|---|
-| `Manual/` | `A1-A5-A6-A7.pdf` (requirements review, mobile/design approach, prioritization, SQL); `Checkout Promo Test Cases.xlsx` (A2, 38 cases plus a scenario map); `Bug Report.xlsx` (A3 session notes, 7 bug reports with Jam evidence links, improvement suggestion) |
-| `api/` | Postman collection and environment JSON, Collection Runner screenshot, `API_FINDINGS.pdf` |
+| `manual/` | `A1-A5-A6-A7.pdf` (requirements review, mobile/design approach, prioritization, SQL); `Checkout Promo Test Cases.xlsx` (A2, 38 cases plus a scenario map); `Bug Report.xlsx` (A3 session notes, 7 bug reports with Jam evidence links, improvement suggestion) |
+| `api/` | Postman collection and environment JSON, Collection Runner screenshot (`collection-runner.png`), `API_FINDINGS.pdf` |
 | `automation/` | Playwright + TypeScript suite for Sauce Demo, with its own README (setup, run commands, report screenshot, problem_user bonus, Promo Codes automation-priority note) |
 
 Quick start for the automation suite:
